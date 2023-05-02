@@ -8,3 +8,14 @@ function computerSelection() {
 }
 
 computerSelection();
+
+//Single Round
+//Player inputs their choice of directions to punch
+//compare player choice to computer choice and output points or knockout
+
+//Player inputs their choice of directions to dodge
+//compare player choice to computer choice and output points or knockout
+
+
+//Full game
+//Loop single round until knockout or either player or computer gets 11 points.
